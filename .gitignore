@@ -1,0 +1,12 @@
+
+# unneeded KiCad files
+*.kicad_prl
+.history/
+
+# KiCad Locks and rebuildable local cache
+fp-info-cache
+~*.lck
+
+# Mac files
+.DS_Store
+
