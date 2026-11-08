@@ -24,7 +24,7 @@
 // GPIO Definitions
 //
 
-//#define SCHEMATIC_VERSION
+#define SCHEMATIC_VERSION
 
 #ifdef SCHEMATIC_VERSION
 
